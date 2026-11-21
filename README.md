@@ -1,6 +1,10 @@
 # The World in One Day — Saturday 21 November 2026
 
-Entry for the make.fun competition `news-image-20261121`: one image summing
+[![make.fun · news-image-20261121](https://make.fun/badge/news-image-20261121.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![rank](https://make.fun/badge/news-image-20261121/nurdiyanto-87/news-image-20261121-entry/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+[![reward](https://make.fun/badge/news-image-20261121/nurdiyanto-87/news-image-20261121-entry/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
+
+Entry for the [make.fun competition `news-image-20261121`](https://make.fun/bounty/news-image-20261121): one image summing
 up the world news of Saturday 21 November 2026.
 
 `main.py` (Python 3.13, standard library only) draws a newspaper front page
